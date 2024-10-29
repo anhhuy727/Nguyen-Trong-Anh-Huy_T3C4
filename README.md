@@ -7,11 +7,11 @@
 - 📫 Liên hệ với tôi qua Email: 22dh111284@st.huflit.edu.vn
 - Tôi đã có kinh nghiệp teamwork với nhiều nhóm và đồ án này là đồ án đầu tiên tôi làm vị trí team lead và hi vọng bạn sẽ làm việc với team thật tốt nhé!
 - Các thông tin về đồ án:
-+ Công nghệ:
+ + Công nghệ:
   * Backend: Java.
   * FrontEnd: JavaSwing.
   * Database: Firebase.
-+ Mục tiêu của đồ án: Xây dựng ứng dụng Android giúp người dùng mua bán điện thoại trực tuyến dễ dàng.
+ + Mục tiêu của đồ án: Xây dựng ứng dụng Android giúp người dùng mua bán điện thoại trực tuyến dễ dàng.
        
                        💞️💞️💞️MONG CÁC BẠN CÙNG NHAU LÀM VIỆC THẬT HIỆU QUẢ VÀ NĂNG SUẤT!💞️💞️💞️
                                 💞️💞️💞️CẢM ƠN VÌ ĐÃ HỢP TÁC LÀM VIỆC VỚI TÔI💞️💞️💞️
