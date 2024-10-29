@@ -13,6 +13,6 @@
   Database: Firebase
 + Mục tiêu của đồ án: Xây dựng ứng dụng Android giúp người dùng mua bán điện thoại trực tuyến dễ dàng.
 
-![thankyoucard-800x800 (1)](https://github.com/user-attachments/assets/6fc0fe3f-4345-4dea-a79f-05e710c8910b)
-MONG CÁC BẠN CÙNG NHAU LÀM VIỆC THẬT HIỆU QUẢ VÀ NĂNG SUẤT! CẢM ƠN VÌ ĐÃ HỢP TÁC LÀM VIỆC VỚI TÔI!
+💞️💞️💞️MONG CÁC BẠN CÙNG NHAU LÀM VIỆC THẬT HIỆU QUẢ VÀ NĂNG SUẤT! CẢM ƠN VÌ ĐÃ HỢP TÁC LÀM VIỆC VỚI TÔI💞️💞️💞️
 
+![thankyoucard-800x800 (1)](https://github.com/user-attachments/assets/6fc0fe3f-4345-4dea-a79f-05e710c8910b)
