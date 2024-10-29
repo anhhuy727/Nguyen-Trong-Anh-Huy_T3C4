@@ -1,4 +1,4 @@
-        ![welcome-discord](https://github.com/user-attachments/assets/c2daa23d-1fb6-45ad-87cc-9018701c0a42)
+![welcome-discord](https://github.com/user-attachments/assets/c2daa23d-1fb6-45ad-87cc-9018701c0a42)
 # Đồ án App bán điện thoại
 - 👋 Xin chào, tôi tên Nguyễn Trọng Anh Huy
 - 👀 Tôi thích thú trong việc code và làm việc team work
@@ -16,4 +16,4 @@
                        💞️💞️💞️MONG CÁC BẠN CÙNG NHAU LÀM VIỆC THẬT HIỆU QUẢ VÀ NĂNG SUẤT!💞️💞️💞️
                                 💞️💞️💞️CẢM ƠN VÌ ĐÃ HỢP TÁC LÀM VIỆC VỚI TÔI💞️💞️💞️
 
-         ![thankyoucard-800x800 (1)](https://github.com/user-attachments/assets/6fc0fe3f-4345-4dea-a79f-05e710c8910b)
+![thankyoucard-800x800 (1)](https://github.com/user-attachments/assets/6fc0fe3f-4345-4dea-a79f-05e710c8910b)
